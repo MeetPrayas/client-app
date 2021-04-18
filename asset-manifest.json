@@ -3,8 +3,8 @@
     "static/js/0.207fe579.chunk.js": "/client-chat-app/static/js/0.207fe579.chunk.js",
     "static/js/0.207fe579.chunk.js.map": "/client-chat-app/static/js/0.207fe579.chunk.js.map",
     "main.css": "/client-chat-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/client-chat-app/static/js/main.6e921acb.chunk.js",
-    "main.js.map": "/client-chat-app/static/js/main.6e921acb.chunk.js.map",
+    "main.js": "/client-chat-app/static/js/main.e8e34d51.chunk.js",
+    "main.js.map": "/client-chat-app/static/js/main.e8e34d51.chunk.js.map",
     "runtime-main.js": "/client-chat-app/static/js/runtime-main.0c4a765c.js",
     "runtime-main.js.map": "/client-chat-app/static/js/runtime-main.0c4a765c.js.map",
     "static/js/3.6e39a287.chunk.js": "/client-chat-app/static/js/3.6e39a287.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.0c4a765c.js",
     "static/js/3.6e39a287.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6e921acb.chunk.js"
+    "static/js/main.e8e34d51.chunk.js"
   ]
 }
