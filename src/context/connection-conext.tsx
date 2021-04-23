@@ -1,6 +1,6 @@
 import * as React from "react"
 import { w3cwebsocket as W3CWebSocket } from "websocket"
-const host = "ws://18.223.116.143:8000"
+const host = "ws://chat-server.prayasagrawal.me/socket"
 const initialState = {
   messages: [],
   setUp: {
@@ -62,7 +62,7 @@ function useClientReducer(state: State, action: Action): State {
       return { ...state, setUp: { ...action.payload } }
     case "connect":
       connectionHandler(action.payload)
-      action.payload.navigateTO("/chat-box")
+      action.payload.navigateTO("chat-box")
       return state
     case "message":
       let list = state.messages.concat(JSON.parse(action.payload))

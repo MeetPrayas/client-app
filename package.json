@@ -1,6 +1,5 @@
 {
   "name": "client-app",
-  "homepage": "http://meetPrayas.github.io/client-chat-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -28,7 +27,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b client-server -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

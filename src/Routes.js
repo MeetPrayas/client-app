@@ -1,4 +1,4 @@
-import React, { lazy, useEffect, useState } from "react"
+import React, { lazy } from "react"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import MainLayout from "./layout/Main"
 
